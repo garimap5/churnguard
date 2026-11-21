@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+fastapi
+uvicorn
+pydantic
+joblib
+matplotlib
+httpx2      # test client
+pytest
